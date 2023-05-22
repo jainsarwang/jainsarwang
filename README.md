@@ -93,4 +93,4 @@
 
 <h3 align="left">My Stats:</h3>
 
-<img src="https://raw.githubusercontent.com/jainsarwang/jainsarwang/output/snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/jainsarwang/jainsarwang/output/snake-dark.svg" alt="Snake Animation" />
