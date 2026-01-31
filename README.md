@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sarwang Jain</h1>
-<h3 align="center">A passionate Full Stack Developer with Debugging Skills😉</h3>
+<h3 align="center">A passionate Full Stack Data Scientist with Great Debugging Skills😉</h3>
 
 <p align="left"> <img
                 src="https://komarev.com/ghpvc/?username=jainsarwang&label=Profile%20views&color=00d6e6&style=flat"
                 alt="jainsarwang" /> </p>
 
-- 🔭 I’m currently working on **BillSplit**
+- 🔭 I’m currently working on **AI-Based Imact creation Project**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **PHP , MySQL , and React**
+- 💬 Ask me about **GenAI, PHP , MySQL , and React**
 
 - 📫 How to reach me **jainsarwang@gmail.com**
 
